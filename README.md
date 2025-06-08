@@ -68,4 +68,4 @@ This project demonstrates how a DevOps engineer:
 
 ## Project Workflow
 
-![Project-Workflow](./Project-Workflow.png)
+![Workflow](./Project-Workflow.png)
